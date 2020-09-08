@@ -129,5 +129,3 @@ It's important to be careful with volumes, because depending on the volume type,
 A persistent volume is a storage directory provisioned on the cluster. PV's have a completely independent lifecycle from the structure that the pod is using.
 
 It's a more robust and more secure way to store your data. You can use it to create a database or to store content that must be persistent, because the volume won't be destroy at the end of the execution.
-
-[Tips](Notes%20on%20Kubernetes%20519cc90b16d04faf82154f3672337caa/Tips%2017269bac7694494c8b69e0f611125e2b.md)
