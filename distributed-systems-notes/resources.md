@@ -16,6 +16,8 @@ https://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-lear
 
 https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/
 
+https://www.infoq.com/news/2021/09/fallacies-distributed-computing/
+
 ## Videos and lectures
 
 https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g
