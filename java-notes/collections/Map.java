@@ -1,9 +1,11 @@
-public class MapExample {
+import java.util.HashMap;
+
+public class Map {
     public static void main(String[] args) {
 
         // Creates the map structure
 
-        Map<> people = new HashMap<Integer, String="">();
+        HashMap<Integer, String> people = new HashMap<Integer, String>();
 
         // Adds items to the Map
 
@@ -18,6 +20,6 @@ public class MapExample {
         // After item removal
 
         System.out.println("The map now looks like this: " + people);
-        
+
     }
 }
