@@ -1,3 +1,5 @@
+[[resources]]
+
 CAP Theorem says that in distributed distributed systems, you can have only 2 out of 3 guarantees.
 
 Those guarantees are:
