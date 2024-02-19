@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f143a3ea0f2db11f",
+        "id": "c290b481dc40970c",
         "type": "tabs",
         "children": [
           {
-            "id": "6b5c3da99c48787b",
+            "id": "47a1edfc29d89806",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +118,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "2084c8d73423d74f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,19 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40e8819b79c80408",
+  "active": "47a1edfc29d89806",
   "lastOpenFiles": [
     "Untitled.canvas",
-    "Backend Engineering Stuff/Notes on general aspects about backend engineering.md",
+    "distributed-systems-notes/CAP Theorem.md",
+    "Java Studies/Notes on Effective Java.md",
+    "notes-on-efficient-dev-journey/learning-process.md",
+    "distributed-systems-notes/resources.md",
     "README.md",
+    "Backend Engineering Stuff/Notes on general aspects about backend engineering.md",
     "kubernetes-notes/Notes on Kubernetes 519cc90b16d04faf82154f3672337caa.md",
     "kubernetes-notes",
-    "java-notes/collections/Map.java",
-    "java-notes/collections/Collection_Notes.md",
-    "java-notes/STUDY_ROADMAP.md",
-    "java-notes/collections",
-    "java-notes",
-    "distributed-systems-notes/resources.md",
+    "Java Studies/java-notes/collections/Map.java",
+    "Java Studies/java-notes/collections/Collection_Notes.md",
+    "Java Studies/java-notes/STUDY_ROADMAP.md",
+    "Java Studies/java-notes/collections",
+    "Java Studies/java-notes",
     "distributed-systems-notes",
     "aws-notes/Notas AWS - Developer Associate.md",
     "aws-notes",
@@ -174,7 +177,6 @@
     "Nova pasta/study-notes/README.md",
     "Nova pasta/study-notes/java-notes",
     "obsidian/Backend Engineering Stuff/Notes on general aspects about backend engineering.md",
-    "Java Studies/Notes on Effective Java.md",
     "Java Studies/Java Studies.md"
   ]
 }
