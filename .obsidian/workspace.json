@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c290b481dc40970c",
+        "id": "ceaf124a42c29274",
         "type": "tabs",
         "children": [
           {
-            "id": "47a1edfc29d89806",
+            "id": "8ce533f9b7c53b49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kafka/Kafka.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89177f7337ccb908",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Studies/java-notes/collections/Collection_Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java Studies/java-notes/collections/Collection_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java Studies/java-notes/collections/Collection_Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java Studies/java-notes/collections/Collection_Notes.md"
+              }
             }
           },
           {
@@ -146,19 +167,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47a1edfc29d89806",
+  "active": "89177f7337ccb908",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "distributed-systems-notes/CAP Theorem.md",
+    "Java Studies/java-notes/General things.md",
+    "Java Studies/java-notes/collections/Collection_Notes.md",
     "Java Studies/Notes on Effective Java.md",
+    "Java Studies/Java Studies.md",
     "notes-on-efficient-dev-journey/learning-process.md",
-    "distributed-systems-notes/resources.md",
+    "distributed-systems-notes/CAP Theorem.md",
+    "Untitled.canvas",
+    "distributed-systems-notes/resources-on-distributed-systems.md",
+    "Kafka/Kafka.md",
+    "Untitled 1.canvas",
+    "Kafka",
     "README.md",
     "Backend Engineering Stuff/Notes on general aspects about backend engineering.md",
     "kubernetes-notes/Notes on Kubernetes 519cc90b16d04faf82154f3672337caa.md",
     "kubernetes-notes",
     "Java Studies/java-notes/collections/Map.java",
-    "Java Studies/java-notes/collections/Collection_Notes.md",
     "Java Studies/java-notes/STUDY_ROADMAP.md",
     "Java Studies/java-notes/collections",
     "Java Studies/java-notes",
@@ -175,8 +201,6 @@
     "Nova pasta/study-notes/kubernetes-notes",
     "Nova pasta/study-notes/ROADMAP.md",
     "Nova pasta/study-notes/README.md",
-    "Nova pasta/study-notes/java-notes",
-    "obsidian/Backend Engineering Stuff/Notes on general aspects about backend engineering.md",
-    "Java Studies/Java Studies.md"
+    "obsidian/Backend Engineering Stuff/Notes on general aspects about backend engineering.md"
   ]
 }
